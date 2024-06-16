@@ -18,30 +18,30 @@ tomcat9.0.87版本
 
 数据写死在数据库里面了，需要手动添加
 
-![Alt Text](D:\Coding\code_idea1\student_course_demo\images\登录1.png)
+![Alt Text](images\登录1.png)
 
 ## 增加学生功能
 
-![Alt Text](D:\Coding\code_idea1\student_course_demo\images\添加学生成功1.png)
+![Alt Text](images\添加学生成功1.png)
 
-![新增学生1](D:\Coding\code_idea1\student_course_demo\images\新增学生1.png)
+![新增学生1](images\新增学生1.png)
 
-![新增学生必要1](D:\Coding\code_idea1\student_course_demo\images\新增学生必要1.png)
+![新增学生必要1](images\新增学生必要1.png)
 
-![alt text](D:\Coding\code_idea1\student_course_demo\images\插入学生1.png)
+![alt text](images\插入学生1.png)
 
 ## 删除学生功能
 
-![Alt Text](D:\Coding\code_idea1\student_course_demo\images\删除空提醒1.png)
+![Alt Text](images\删除空提醒1.png)
 
-![删除学生成功1](D:\Coding\code_idea1\student_course_demo\images\删除学生成功1.png)
+![删除学生成功1](images\删除学生成功1.png)
 
 ## 查询学生
 
-![Alt Text](D:\Coding\code_idea1\student_course_demo\images\查询空提醒1.png)
+![Alt Text](images\查询空提醒1.png)
 
-![查询学生1](D:\Coding\code_idea1\student_course_demo\images\查询学生1.png)
+![查询学生1](images\查询学生1.png)
 
-![查询学生成功1](D:\Coding\code_idea1\student_course_demo\images\查询学生成功1.png)
+![查询学生成功1](images\查询学生成功1.png)
 
-![查询学生为空1](D:\Coding\code_idea1\student_course_demo\images\查询学生为空1.png)
+![查询学生为空1](images\查询学生为空1.png)
